@@ -41,7 +41,7 @@
 
 <!-- ### 🔥 Proyectos  
 - [API REST con .NET 8 y MongoDB](https://github.com/tu-usuario/proyecto-api)  
-- [Sistema de gestión con Java Spring Boot](https://github.com/tu-usuario/proyecto-spring) -->
+- [Sistema de gestión con Java Spring Boot](https://github.com/tu-usuario/proyecto-spring) 
 
   ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SebaViguie&show_icons=true&theme=radical)
-  ![Última actividad](https://github-readme-activity-graph.vercel.app/graph?username=SebaViguie&theme=github-compact)  
+  ![Última actividad](https://github-readme-activity-graph.vercel.app/graph?username=SebaViguie&theme=github-compact)  -->
