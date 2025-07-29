@@ -1,7 +1,7 @@
 # Hola 👋, soy Sebastián  
 **Desarrollador Backend .NET | Java**  
  
-📚 Actualmente aprendiendo: Java.  
+<!-- 📚 Actualmente aprendiendo: Java.  -->
 
 ### 🛠 Stack Tecnológico  
 
