@@ -40,9 +40,12 @@
 🔗 **Conectemos**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-viguie/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebaViguie&layout=compact&theme=dark)
 <!-- ### 🔥 Proyectos  
 - [API REST con .NET 8 y MongoDB](https://github.com/tu-usuario/proyecto-api)  
 - [Sistema de gestión con Java Spring Boot](https://github.com/tu-usuario/proyecto-spring) 
-![Última actividad](https://github-readme-activity-graph.vercel.app/graph?username=SebaViguie&theme=github-compact)  -->
+
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SebaViguie&show_icons=true&theme=radical)
+![Última actividad](https://github-readme-activity-graph.vercel.app/graph?username=SebaViguie&theme=github-compact)  -->
+
   
